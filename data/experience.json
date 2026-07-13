@@ -1,0 +1,20 @@
+[
+  {
+    "id": "freelance",
+    "tag": "2025 — Present",
+    "title": "Freelance Full-Stack Developer",
+    "body": "Building small business websites and internal tools, handling everything from database design to deployment."
+  },
+  {
+    "id": "academic",
+    "tag": "2024 — Present",
+    "title": "Academic Projects — BSIT Coursework",
+    "body": "Designed and built multiple capstone-style systems, including e-commerce and desktop ordering applications, applying database design and software engineering fundamentals."
+  },
+  {
+    "id": "open-source",
+    "tag": "2024 — Present",
+    "title": "Open Source Contributions",
+    "body": "Contributing fixes and small features to developer tooling projects, and maintaining personal automation utilities on GitHub."
+  }
+]

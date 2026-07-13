@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ai-automation-saas",
+    "category": "AI Automation \u00b7 SaaS",
+    "title": "AI Automation SaaS Platform",
+    "summary": "A multi-tenant platform that lets teams build AI-driven workflows \u2014 connecting data sources, LLM prompts, and third-party APIs without writing code.",
+    "tags": [
+      "Next.js",
+      "OpenAI API",
+      "PostgreSQL",
+      "n8n"
+    ],
+    "links": [
+      {
+        "label": "\u2197 Live Demo",
+        "href": "#"
+      },
+      {
+        "label": "\u2325 GitHub",
+        "href": "#"
+      }
+    ],
+    "overview": "Built to let small teams automate repetitive operational work \u2014 support triage, report generation, and data enrichment \u2014 through configurable AI workflows.",
+    "architecture": "Next.js frontend, a Node API layer, PostgreSQL for tenant data, and a queue-based worker that executes workflow steps against the OpenAI API.",
+    "challenges": [
+      "Keeping workflow runs reliable under rate limits",
+      "Designing a schema flexible enough for arbitrary workflow steps"
+    ],
+    "results": "Reduced manual report-building time in testing by an estimated 70%, with workflows completing reliably across retries."
+  },
+  {
+    "id": "techsphere-ecommerce",
+    "category": "Full-Stack \u00b7 E-commerce",
+    "title": "TechSphere E-commerce Platform",
+    "summary": "A full-featured storefront with catalog management, cart, checkout, and an admin dashboard for inventory and orders.",
+    "tags": [
+      "React",
+      "Node.js",
+      "MySQL",
+      "REST API"
+    ],
+    "links": [
+      {
+        "label": "\u2197 Live Demo",
+        "href": "#"
+      },
+      {
+        "label": "\u2325 GitHub",
+        "href": "#"
+      }
+    ],
+    "overview": "A tech-products storefront built to practice production-style commerce flows: auth, cart persistence, and order lifecycle.",
+    "architecture": "React SPA consuming a Node/Express REST API, with MySQL for products, orders, and users, and role-based access for the admin panel.",
+    "challenges": [
+      "Keeping cart state consistent across sessions",
+      "Designing an admin dashboard non-technical staff could use"
+    ],
+    "results": "Delivered a working checkout flow and admin dashboard covering the full order lifecycle from cart to fulfillment."
+  },
+  {
+    "id": "food-ordering-system",
+    "category": "Desktop App \u00b7 Academic",
+    "title": "Food Ordering System",
+    "summary": "A desktop ordering system for a campus food stall \u2014 menu management, order tracking, and receipt printing.",
+    "tags": [
+      "VB.NET",
+      "MySQL",
+      "Crystal Reports"
+    ],
+    "links": [
+      {
+        "label": "\u2325 GitHub",
+        "href": "#"
+      }
+    ],
+    "overview": "A capstone-style project built to model real ordering operations for a small food business, from order entry to receipt.",
+    "architecture": "VB.NET desktop client with a local MySQL database, using stored procedures for order totals and inventory deduction.",
+    "challenges": [
+      "Handling concurrent order entry without double-counting stock",
+      "Designing a receipt layout matching real printer hardware"
+    ],
+    "results": "Delivered a working system used in classroom demos, cutting manual order tallying time significantly."
+  }
+]

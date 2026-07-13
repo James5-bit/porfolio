@@ -1,0 +1,8 @@
+[
+  { "id": "frontend", "icon": "◧", "title": "Frontend", "chips": ["React", "Next.js", "TypeScript", "Tailwind CSS"] },
+  { "id": "backend", "icon": "◨", "title": "Backend", "chips": ["Node.js", "PHP", "REST APIs", "VB.NET"] },
+  { "id": "database", "icon": "▤", "title": "Database", "chips": ["MySQL", "PostgreSQL", "Firebase"] },
+  { "id": "cloud", "icon": "☁", "title": "Cloud", "chips": ["Vercel", "Render", "AWS basics"] },
+  { "id": "ai-automation", "icon": "✦", "title": "AI & Automation", "chips": ["OpenAI API", "n8n", "Zapier", "Prompt Engineering"] },
+  { "id": "tools", "icon": "⚙", "title": "Tools", "chips": ["Git & GitHub", "Figma", "Postman", "VS Code"] }
+]

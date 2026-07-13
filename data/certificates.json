@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ai-automation-cert",
+    "tag": "2026",
+    "title": "AI Automation & Prompt Engineering",
+    "body": "Applied coursework in building automated workflows with large language models."
+  },
+  {
+    "id": "fullstack-cert",
+    "tag": "2025",
+    "title": "Full-Stack Web Development",
+    "body": "End-to-end coverage of frontend frameworks, REST API design, and relational databases."
+  },
+  {
+    "id": "database-cert",
+    "tag": "2025",
+    "title": "Database Design Fundamentals",
+    "body": "Relational modeling, normalization, and query optimization for production systems."
+  }
+]
