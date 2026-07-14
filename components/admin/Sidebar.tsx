@@ -16,8 +16,8 @@ export function Sidebar({ onLogout }: { onLogout: () => void }) {
       style={{ borderColor: "var(--border)", background: "var(--bg-elevated)" }}
     >
       <div className="px-5 py-5 flex items-center gap-2.5">
-        <div className="w-8 h-8 rounded-lg flex items-center justify-center text-white font-bold text-[13px]" style={{ background: "linear-gradient(135deg,var(--primary),var(--accent))" }}>
-          JP
+        <div className="w-8 h-8 rounded-lg flex items-center justify-center p-1" style={{ background: "#fff", boxShadow: "0 0 0 1px var(--border)" }}>
+          <img src="/images/logo-mark.png" alt="JamesLabs AI" className="w-full h-full object-contain" />
         </div>
         <div>
           <div className="text-[13px] font-semibold" style={{ color: "var(--ink)" }}>Portfolio CMS</div>

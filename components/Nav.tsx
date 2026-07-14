@@ -22,7 +22,10 @@ export default function Nav() {
     <nav className={`nav ${scrolled ? "scrolled" : ""}`}>
       <div className="nav-inner">
         <div className="brand">
-          <div className="brand-mark">JP</div> James Peñero
+          <div className="brand-mark">
+            <img src="/images/logo-mark.png" alt="JamesLabs AI" />
+          </div>
+          James Peñero
         </div>
         <div className="nav-links">
           {links.map((l) => (

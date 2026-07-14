@@ -1,4 +1,4 @@
-﻿import { NextRequest, NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { updateItem, deleteItem } from "@/lib/listStore";
 import { requireAuth } from "@/lib/adminAuth";
 

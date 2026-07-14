@@ -9,7 +9,7 @@
     "linkedinUrl": "#"
   },
   "about": {
-    "locationTag": "📍 General Trias, Philippines — Open to internships & junior roles",
+    "locationTag": "📍  Naic Cavite  Philippines — Open to internships & junior roles",
     "paragraphs": [
       "I'm a **BSIT student** from the Philippines who builds complete software systems — not just interfaces. My focus sits at the intersection of **full-stack engineering** and **AI automation**: designing the data model, wiring the API, and letting intelligent workflows handle the repetitive parts.",
       "My mission is simple — turn real, messy problems into software that people actually want to use. I care about clean architecture, sensible defaults, and interfaces that get out of the way.",
@@ -17,31 +17,63 @@
     ],
     "education": "BSIT Student",
     "location": "Philippines",
-    "email": "jamespenero@gmail.com",
+    "email": "jamespenero2026@gmail.com",
     "availability": "Open to freelance & internships"
   },
   "contact": {
-    "email": "jamespenero@gmail.com",
+    "email": "jamespenero2026@gmail.com",
     "availabilityText": "Available for opportunities",
     "githubUrl": "#",
-    "linkedinUrl": "#"
+    "linkedinUrl": "#https://www.linkedin.com/in/james-ashley-penero-b8b0a5388 "
   },
   "stats": [
-    { "num": "10+", "label": "Projects completed" },
-    { "num": "12+", "label": "Technologies used" },
-    { "num": "1+", "label": "Years building software" },
-    { "num": "5+", "label": "AI workflows automated" }
+    {
+      "num": "10+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "12+",
+      "label": "Technologies used"
+    },
+    {
+      "num": "1+",
+      "label": "Years building software"
+    },
+    {
+      "num": "5+",
+      "label": "AI workflows automated"
+    }
   ],
   "github": {
     "contributions": "420+",
     "repos": "18",
     "stars": "32",
     "languages": [
-      { "name": "JavaScript", "pct": 38, "color": "#7C5CFF" },
-      { "name": "PHP", "pct": 24, "color": "#A78BFA" },
-      { "name": "TypeScript", "pct": 18, "color": "#34D399" },
-      { "name": "VB.NET", "pct": 12, "color": "#5C5C68" },
-      { "name": "SQL", "pct": 8, "color": "#F5C518" }
+      {
+        "name": "JavaScript",
+        "pct": 38,
+        "color": "#7C5CFF"
+      },
+      {
+        "name": "PHP",
+        "pct": 24,
+        "color": "#A78BFA"
+      },
+      {
+        "name": "TypeScript",
+        "pct": 18,
+        "color": "#34D399"
+      },
+      {
+        "name": "VB.NET",
+        "pct": 12,
+        "color": "#5C5C68"
+      },
+      {
+        "name": "SQL",
+        "pct": 8,
+        "color": "#F5C518"
+      }
     ]
   }
 }

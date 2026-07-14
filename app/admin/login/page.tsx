@@ -47,8 +47,8 @@ export default function AdminLoginPage() {
           transition={{ duration: 0.6 }}
           className="relative z-10 max-w-sm"
         >
-          <div className="w-12 h-12 rounded-xl flex items-center justify-center text-white font-bold mb-8" style={{ background: "linear-gradient(135deg,var(--primary),var(--accent))" }}>
-            JP
+          <div className="w-12 h-12 rounded-xl flex items-center justify-center p-2 mb-8" style={{ background: "#fff", boxShadow: "0 0 0 1px var(--border)" }}>
+            <img src="/images/logo-mark.png" alt="JamesLabs AI" className="w-full h-full object-contain" />
           </div>
           <h1 className="text-3xl font-bold mb-3" style={{ color: "var(--ink)" }}>
             Manage your portfolio like a product.

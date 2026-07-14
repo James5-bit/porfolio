@@ -22,7 +22,7 @@ export default function About({ about }: { about: AboutContent }) {
     <section className="section" id="about">
       <div className="wrap about-grid">
         <Reveal className="portrait-frame">
-          <span className="initials">JP</span>
+          <img src="/images/portrait.png" alt="James Peñero" className="portrait-photo" />
           <div className="tag">{about.locationTag}</div>
         </Reveal>
         <div className="about-body">
